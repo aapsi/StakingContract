@@ -1,0 +1,9 @@
+
+    // bytes32  values for 31 days pool
+    POOL_ID_STAKE_DURATION_31_DAYS = 0x1d1c04d2218f694939ff9127f1adf9a75c45d3ce2796861161df22d3900a96f7;
+    APRWei = 3500000000000000000
+    rewardtoken/staketoken address = 0x1c91347f2A44538ce62453BEBd9Aa907C662b4bD
+    decimal = 18
+    maxpoolsize = 10000000000000000000000
+    stakingPoolcontract = 0x5A86858aA3b595FD6663c2296741eF4cd8BC4d01
+
